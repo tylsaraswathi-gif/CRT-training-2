@@ -1,0 +1,43 @@
+project.doc
+project1.doc-->2nd 
+project2.doc--->3rd
+
+
+which file is newest
+who changed it?
+delete---> we can recover the code
+multiple people can work together
+
+Linus Torvalds--->2005 
+
+Git architecture:
+    working directory
+    :hello.py,ver-1,ver-2
+            |
+      stagging area
+temporary area before commit
+            |
+      local repository
+    area after commit
+            |
+      remote repository(git,gitcloud )
+
+
+      
+create file
+|
+git add
+|
+stagging area
+|
+git coomit
+|
+local repository
+|
+git push
+|
+
+            
+
+
+        
